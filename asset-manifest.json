@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/scheresteinpapier/static/css/main.a689ad72.chunk.css",
+    "main.js": "/scheresteinpapier/static/js/main.c8d9e56f.chunk.js",
+    "main.js.map": "/scheresteinpapier/static/js/main.c8d9e56f.chunk.js.map",
+    "runtime-main.js": "/scheresteinpapier/static/js/runtime-main.077c1f81.js",
+    "runtime-main.js.map": "/scheresteinpapier/static/js/runtime-main.077c1f81.js.map",
+    "static/css/2.73737eef.chunk.css": "/scheresteinpapier/static/css/2.73737eef.chunk.css",
+    "static/js/2.1d61f8b0.chunk.js": "/scheresteinpapier/static/js/2.1d61f8b0.chunk.js",
+    "static/js/2.1d61f8b0.chunk.js.map": "/scheresteinpapier/static/js/2.1d61f8b0.chunk.js.map",
+    "index.html": "/scheresteinpapier/index.html",
+    "precache-manifest.16f37c71adfec0f8094d0caff5b0551a.js": "/scheresteinpapier/precache-manifest.16f37c71adfec0f8094d0caff5b0551a.js",
+    "service-worker.js": "/scheresteinpapier/service-worker.js",
+    "static/css/2.73737eef.chunk.css.map": "/scheresteinpapier/static/css/2.73737eef.chunk.css.map",
+    "static/css/main.a689ad72.chunk.css.map": "/scheresteinpapier/static/css/main.a689ad72.chunk.css.map",
+    "static/js/2.1d61f8b0.chunk.js.LICENSE.txt": "/scheresteinpapier/static/js/2.1d61f8b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.077c1f81.js",
+    "static/css/2.73737eef.chunk.css",
+    "static/js/2.1d61f8b0.chunk.js",
+    "static/css/main.a689ad72.chunk.css",
+    "static/js/main.c8d9e56f.chunk.js"
+  ]
+}
