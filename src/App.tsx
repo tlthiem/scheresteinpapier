@@ -45,7 +45,7 @@ class App extends React.Component<AppProps, AppState> {
     this.setState({ results: { firstPlayer: 0, secondPlayer: 0, draw: 0 }, totalRounds: 0 });
     for (let i: number = 0; i < 100; i++) {
       //disable react setState batching for dramatic effect :) ...cpu glüht
-      setTimeout(this.playRound);
+      setTimeout(this.playRound, 5000);
     }
   };
 
